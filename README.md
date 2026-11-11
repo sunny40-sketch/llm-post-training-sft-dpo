@@ -159,7 +159,7 @@ pip install -r requirements.txt
 ### 2. Run the Full Training Notebook
 Launch Google Colab or your Jupyter server with a CUDA GPU:
 ```bash
-jupyter notebook notebooks/post_training_pipeline.ipynb
+jupyter notebook post_training_pipeline.ipynb
 ```
 
 ### 3. Launch the Interactive Web UI
