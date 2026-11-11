@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch checkpoints and model weights (do not push gigabyte weights to Git)
+*.pt
+*.bin
+*.safetensors
+qwen_lora_model/
+qwen_dpo_aligned_model/
+outputs_chatml/
+outputs_dpo/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environments
+env/
+venv/
+.venv/
+
+# OS specific
+.DS_Store
+Thumbs.db
