@@ -178,8 +178,7 @@ llm-post-training-sft-dpo/
 ├── requirements.txt                       <- Environment dependencies
 ├── app.py                                 <- Interactive Gradio deployment application
 ├── LICENSE                                <- MIT License
-└── notebooks/
-    └── post_training_pipeline.ipynb       <- Executable Colab notebook with training logs
+└── post_training_pipeline.ipynb       <- Executable Colab notebook with training logs
 ```
 
 ---
